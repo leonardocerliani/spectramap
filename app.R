@@ -602,7 +602,7 @@ getClosestStation <- function(locus, df_Stations) {
 urlbase_OWM_rain="http://{s}.tile.openweathermap.org/map/precipitation_new/{z}/{x}/{y}.png?appid="
 urlbase_OWM_temp="http://{s}.tile.openweathermap.org/map/temp/{z}/{x}/{y}.png?appid="
 
-API_KEY=Sys.getenv("OWM_KEY")
+API_KEY="3a3e24124bac0d0962238875b6af7982"
 
 # A function to render the map is required since we need to pass the current month
 # NB: the marker and DLI map are added by the leafletProxy in the server logic

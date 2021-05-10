@@ -5,9 +5,9 @@
 
 ## Spectramap 1.0
 
-Code deployed at [agrispectra.farm](http://agrispectra.farm/)
+Deployed at [agrispectra.farm](http://agrispectra.farm/) (faster) and [on shinyapps.io](https://agronomous.shinyapps.io/spectramap/) (slower)
 
-![SpectraMap](imgs/spectramap.png)
+![SpectraMap](imgs/spectramap_video_tutorial.gif)
 
 ![LukeLogo](imgs/LukeLogo.png)
 ![UHelsinkiLogo](imgs/UHelsinki_Logo.png) <br><br>
