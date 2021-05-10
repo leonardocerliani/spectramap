@@ -68,22 +68,22 @@ Faust J.E. & Logan J. (2018) Daily light integral: A research review and high-re
 For detailed description about the materials and the complete data set of those measurements: https://zenodo.org/record/1472634#.XfE3MZMzapq
 
 
+<hr>
+
 **Affiliations**
 
-1: [Leonardo Cerliani](mailto:leonardo.cerliani@gmail.com), Netherlands Institute for Neuroscience, Amsterdam, the Netherlands
+1: [Leonardo Cerliani](mailto:leonardo.cerliani@gmail.com), Netherlands Institute for Neuroscience, Amsterdam, The Netherlands
 
 2: [Titta Kotilainen](mailto:titta.kotilainen@luke.fi), [Natural Resources Institute Finland - LUKE](https://www.luke.fi/), Turku, Finland
 
 3: [Matthew Robson](mailto:matthew.robson@helsinki.fi), [Pedro Aphalo](mailto:pedro.aphalo@helsinki.fi), Organismal and Evolutionary Biology (OEB), Viikki Plant Science Centre (ViPS), [Faculty of Biological and Environmental Sciences](https://researchportal.helsinki.fi/en/persons/t-matthew-robson), University of Helsinki, Finland
 
+<hr>
 
-Made with [R/Shiny](https://shiny.rstudio.com/)<br>
 Copyright (c) 2021, Leonardo Cerliani, Titta Kotilainen, Matthew Robson
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<hr>
+
+Made with [R/Shiny](https://shiny.rstudio.com/)<br>
