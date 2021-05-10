@@ -14,7 +14,7 @@ Titta Kotilainen^[2],
 Matthew Robson^[3]
 
 **Data preparation and modelling**:
-Leonardo Cerliani, Titta Kotilainen, Pedro Aphalo^[3]
+Leonardo Cerliani, Titta Kotilainen, Pedro Aphalo^[3], Matthew Robson
 
 **R/Shiny Implementation**:
 Leonardo Cerliani
@@ -26,7 +26,7 @@ Total Ozone column: [NASA Aura](https://avdc.gsfc.nasa.gov/pub/data/satellite/Au
 
 Clara 2.0 satellite Surface Incoming Shortwave Radiation data, available through [CM SAF](https://wui.cmsaf.eu/safira/action/viewProduktDetails?fid=18&eid=21814)
 
-Screen efficiency measurements carried out by Titta Kotilainen
+Measurements of spectral radiation transmitted by screens and filter materials carried out by Titta Kotilainen and Matthew Robson
 
 The Open Field picture is by [Adele Payman](https://www.instagram.com/adele_payman/) on [Unsplash](https://unsplash.com/)<br>
 
