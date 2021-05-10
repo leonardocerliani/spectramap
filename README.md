@@ -81,3 +81,5 @@ For detailed description about the materials and the complete data set of those 
 
 Made with [R/Shiny](https://shiny.rstudio.com/)<br>
 Copyright 2019, Leonardo Cerliani, Titta Kotilainen, Matthew Robson
+
+![image](https://github.com/leonardocerliani/spectramap/blob/b1230322c24c1c38203bae9376057d97c7a66b5b/imgs/spectramap.png)
