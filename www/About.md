@@ -64,11 +64,11 @@ For detailed description about the materials and the complete data set of those 
 
 **Affiliations**
 
-1: [Leonardo Cerliani](leonardo.cerliani@gmail.com), Department of Social and Behavioural Sciences, University of Amsterdam, the Netherlands
+1: [Leonardo Cerliani](mailto:leonardo.cerliani@gmail.com), Netherlands Institute for Neuroscience, Amsterdam, The Netherlands
 
-2: [Titta Kotilainen](titta.kotilainen@luke.fi), [Natural Resources Institute Finland - LUKE](https://www.luke.fi/), Turku, Finland
+2: [Titta Kotilainen](mailto:titta.kotilainen@luke.fi), [Natural Resources Institute Finland - LUKE](https://www.luke.fi/), Turku, Finland
 
-3: [Matthew Robson](matthew.robson@helsinki.fi), [Pedro Aphalo](pedro.aphalo@helsinki.fi), Organismal and Evolutionary Biology (OEB), Viikki Plant Science Centre (ViPS), [Faculty of Biological and Environmental Sciences](https://researchportal.helsinki.fi/en/persons/t-matthew-robson), University of Helsinki, Finland
+3: [Matthew Robson](mailto:matthew.robson@helsinki.fi), [Pedro Aphalo](pedro.aphalo@helsinki.fi), Organismal and Evolutionary Biology (OEB), Viikki Plant Science Centre (ViPS), [Faculty of Biological and Environmental Sciences](https://researchportal.helsinki.fi/en/persons/t-matthew-robson), University of Helsinki, Finland
 
 <hr>
 
