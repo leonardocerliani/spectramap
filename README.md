@@ -8,9 +8,6 @@
 Deployed at [agrispectra.farm](http://agrispectra.farm/) (faster) and [on shinyapps.io](https://agronomous.shinyapps.io/spectramap/) (slower)
 
 
-Deployed at <a href="http://agrispectra.farm/" target="_blank">agrispectra.farm</a> (faster) and <a href="https://agronomous.shinyapps.io/spectramap/" target="_blank">on shinyapps.io</a> (slower)
-
-
 ![SpectraMap](spectramap_video_tutorial.gif)
 
 ![LukeLogo](imgs/LukeLogo.png)
