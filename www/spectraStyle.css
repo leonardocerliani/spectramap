@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Source+Sans+Pro|Kalam');
+
+/* Nice fonts */
+* { font-family: 'Source Sans Pro' ;}
+
+body {
+  background-color: #ECF0F5;
+}
+
+
+/* Backgorund color of selected table rows */
+table.dataTable tr.selected td, table.dataTable td.selected {
+    background-color: #d4e9f1 !important;
+}
+
+
+/*Logo font size*/
+.navbar-default .navbar-brand {
+  font-size: 22px;
+  color: #2981ca;
+}
+
+/* Increase margin of logo for large screens */
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 0;
+}
+
+
+/* Background of the navbar */
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    background-color: #ecf0f5;
+}
+
+
+/* Active element of the navbar */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #428bca;
+    background-color: #ecf0f5;
+}
+
+/* Inactive elements of the navbar */
+.navbar-default .navbar-nav>li>a {
+    color: #428bca91;
+}
+
+
+/* Changing font colour */
+.h1, .h2, .h4, .h5, .h6, h1, h2, h4, h5, h6 {
+    color: #2981ca;
+}
+
+
+/* Toggle menu */
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ecf0f5;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #428bca;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #428bca;
+}
+
+
+
+/* Style of DT buttons */
+.dt-button {
+    border: 1px solid #9990 !important;
+    border-radius: 10px !important;
+    background-color: #ECF0F5 !important;
+    background-image: none !important;
+}
+
+
+/* Spread the image to the borders of the carousel */
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: max-content;
+    width: -webkit-fill-available;
+}
+
+
+
+
+
+
+/* Zero pad for columns */
+col {
+  padding-right:0;
+  padding-left:0;
+}
+
+
+/* Buttons for choosing materials */
+.btn {
+	border:1px solid transparent;
+	border-radius: 10px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+	background-color: #D4E9F1;
+  color: #444;
+}
+
+
+
+/* Navbar all of the same colour - original: #367fa9 */
+.skin-blue .main-header .navbar {
+    background-color: #3C8DBC;
+}
+
+
+
+/* Remove minor ticks in the slider */
+.irs-grid-pol.small {
+  height: 0;
+}
+
+
+/* Background behind materials selection */
+.form-control {
+  background-color: transparent;
+}
+
+
+
+/* Remove padding on top of the map */
+.content {
+  padding-top:0
+}
+
+
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0, 0, 0, 0) 100%);
+    background-repeat: repeat-x;
+}
+
+
+.carousel-control.left {
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0, 0, 0, 0) 100%);
+    background-repeat: repeat-x;
+}
