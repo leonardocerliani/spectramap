@@ -5,7 +5,7 @@
 
 ## Spectramap 1.0
 
-Deployed at [agrispectra.farm](http://agrispectra.farm/) (faster) and [on shinyapps.io](https://agronomous.shinyapps.io/spectramap/) (slower)
+Deployed at [on shinyapps.io](https://agronomous.shinyapps.io/spectramap/) (free hosting, slower than on a dedicated server)
 
 
 ![SpectraMap](spectramap_video_tutorial.gif)
